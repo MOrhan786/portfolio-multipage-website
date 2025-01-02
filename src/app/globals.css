@@ -2,26 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+:root{
+  --background-black : #0A0908;
+   --background-gray : #1A1A1A;
+ --background-light-gray: #222222;
+  --logo-color: #A9927D;
+  --button-color: #5E503F;
+  --hover-button-color: #7D674C;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+body{
+  color: white;
+
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
+   /* /* <header className="w-[1440px] h-12 bg-black py-3 pl-[445px] pr-[130px]  ">
+                <nav className='w-[859px] h-6 bg-red-300 flex items-center justify-between'> */
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
+                    /* {right div} */
+
+                    /* <div className='bg-yellow-300 w-[550px] gap-2 '>cd</div> */
+                    /* {left div}
+
+                    <div className='bg-blue-400 w-[78px] gap-5px '>cc</div>
+                </nav>
+
+           </header>  */
+
+

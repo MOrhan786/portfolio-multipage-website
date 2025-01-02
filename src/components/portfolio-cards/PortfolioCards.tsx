@@ -1,6 +1,6 @@
 'use client'
 import React from "react";
-import styles from "./portfolioCard.module.css";
+import styles from "./PortfolioCard.module.css";
 import Image from "next/image";
 import { portfolioCards } from "@/constant/portfolioCards";
 import Link from 'next/link'

@@ -6,7 +6,7 @@ import { portfolioCards } from "@/constant/portfolioCards";
 import Link from 'next/link'
 import {motion} from "framer-motion"
 
-function PortfolioCard() {
+function PortfolioCard () {
   return (
     <>
       {portfolioCards.map((item, index) => {

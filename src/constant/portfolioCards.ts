@@ -30,7 +30,7 @@ export const portfolioCards = [
     {
       id: 5,
       type: "video",
-      src: "/image/admin-dash board.webm",
+      src: "/image/ad.webm",
       title: "Admin-dasboard",
       href: "https://admin-dashboard-47bp.vercel.app/"
     },
@@ -59,8 +59,8 @@ export const portfolioCards = [
     {
       id: 9,
       type: "video",
-      src: "/image/e-c.webm",
-      title: "e-commerce-website",
-      href: "https://e-commerce-website-9iux.vercel.app/"
+      src: "/image/dt.webm",
+      title: "Data-Fetching",
+      href: "https://assignment-7-five-nu.vercel.app/"
     }
   ]

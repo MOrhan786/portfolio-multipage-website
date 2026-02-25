@@ -14,6 +14,7 @@ function Header() {
           <ul className={interFont.className}>
           <li><Link href={"/"}>Home</Link></li>
               <li><Link href={"#about"}>About</Link></li>
+              <li><Link href={"#skills"}>Skills</Link></li>
               <li><Link href={"#portfolio"}>Portfolio</Link></li>
               <li><Link href={"#service"}>Services</Link></li>
               <li><Link href={"#testimonial"}>Testimonials</Link></li>

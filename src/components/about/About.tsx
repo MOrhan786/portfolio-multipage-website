@@ -17,14 +17,14 @@ function AboutSection() {
           transition={{ duration: 2, type: "spring" }}
         >
           <h1 className={caveatFont.className}>Mrs Asif</h1>
-          <p className={caveatFont.className}>Freelance Web Developer</p>
+          <p className={caveatFont.className}>Full-Stack Software Engineer</p>
           <p className={`${styles.detailsText} ${interFont.className}`}>
-            As a frontend developer, I focus on appealing and user-friendly
-            interfaces that enhance websites and applications. My expertise lies
-            in building responsive crafting visually designs, ensuring a smooth
-            and consistent experience across all devices. I have strong skills
-            in HTML, CSS, and JavaScript, along with experience working with
-            frameworks like Next.js and Tailwind CSS.
+            I am a Full-Stack Software Engineer with hands-on experience building
+            scalable web applications, REST APIs, and AI-powered systems. I specialize
+            in Next.js, React, FastAPI, and Node.js on the frontend and backend, with
+            strong DevOps skills in Docker, Kubernetes, and CI/CD pipelines. I also work
+            with LLM integrations and RAG systems, and I am passionate about clean
+            architecture, system design, and delivering real-world impact through technology.
           </p>
           <Button text={"Contact Me"} />
         </motion.div>

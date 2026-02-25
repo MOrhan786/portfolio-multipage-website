@@ -43,8 +43,8 @@ function ContactUs() {
           <span>M</span>e
         </h1>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt deserunt laudantium officia fuga ipsam quasi corrupti in
-        <br />numquam dolor libero explicabo, inventore aperiam.</p>
+        <p>Have a project in mind or want to collaborate? Feel free to reach out.
+        <br />I&apos;m always open to new opportunities and exciting projects.</p>
 
 
         <div className={styles.contactUsBottomDiv}>
@@ -54,7 +54,7 @@ function ContactUs() {
               <div className={styles.contactLeftDivText}>
                 <h6>Have a question?</h6>
                 <h6>I am here to help you</h6>
-                <h6>Email me at tahaAhmed@gmail.com</h6>
+                <h6>Email me at mrsasifnewid@gmail.com</h6>
               </div>
             </div>
 

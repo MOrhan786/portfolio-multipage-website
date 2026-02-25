@@ -20,6 +20,20 @@
     margin-top: 20px;
     margin-bottom: 2.0313rem;
   }
+
+  .summary {
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #cccccc;
+  }
+
+  .summary span {
+    color: var(--logo-color);
+    font-weight: 600;
+  }
   
   .socialIcons{
     margin: auto;
@@ -32,6 +46,16 @@
     border-radius: 26px;
     margin-top: 3.125rem;
     margin-bottom: 4.375rem;
+  }
+
+  .socialIcons a {
+    display: flex;
+    align-items: center;
+    transition: transform 0.2s ease;
+  }
+
+  .socialIcons a:hover {
+    transform: scale(1.2);
   }
   
   .bottomImageDiv{

@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# large video files
+public/image/hackathon-1-form-neon.mp4
+public/image/hackathon-form.mp4

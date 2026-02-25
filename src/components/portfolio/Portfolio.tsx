@@ -13,9 +13,8 @@ function Portfolio() {
           <span>W</span>ork
         </h1>
 
-        <p className={interFont.className}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt deserunt laudantium officia fuga ipsam quasi corrupti in 
-          <br />numquam dolor libero explicabo, inventore aperiam, commodi et! Quia iste tempora aut, illum culpa ipsum possimus saepe
-          <br />eligendi.
+        <p className={interFont.className}>A collection of my recent projects — from e-commerce platforms to admin dashboards,
+          <br />blog websites, and more. Each project reflects my passion for clean code and great UI.
         </p>
 
         <div className={styles.myWork}>

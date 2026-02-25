@@ -13,10 +13,9 @@ function Services() {
         </h1>
 
         <p className={interFont.className}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-          deserunt laudantium officia fuga ipsam quasi corrupti in
+          I offer end-to-end web solutions — from stunning UI designs to fully functional
           <br />
-          numquam dolor libero explicabo, inventore aperiam, commodi et!
+          web applications, tailored to meet your business goals.
         </p>
 
         <div className={styles.servicesCardDiv}>

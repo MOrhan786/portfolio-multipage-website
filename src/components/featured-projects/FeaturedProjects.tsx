@@ -11,7 +11,7 @@ const projects = [
       'Full-stack agentic todo app with voice control, chat assistants, and event-driven notifications.',
     ],
     stack: ['Next.js', 'shadcn/ui', 'FastAPI', 'MCP Server', 'Postgres', 'Docker', 'Kubernetes', 'Kafka', 'Dapr', 'Grafana', 'Prometheus', 'Loki'],
-    href: '#',
+    href: 'https://mrsasif-taskflowcloud-phase5.hf.space',
   },
   {
     title: 'Physical AI Textbook — RAG Interactive Learning',
@@ -19,7 +19,7 @@ const projects = [
       '15-week interactive textbook with personalized RAG chatbot for learning support.',
     ],
     stack: ['Docusaurus', 'React', 'FastAPI', 'Qdrant', 'Better Auth', 'Gemini 2.0 Flash'],
-    href: '#',
+    href: 'https://morhan786.github.io/hackathon-physical-ai-robotics/',
   },
   {
     title: 'E-Commerce Marketplace — Nike Shoes Platform',

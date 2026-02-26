@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './HeroSection.module.css'
 import { interFont } from '@/font';
 import Button from '../button/Button';
-import { FaFacebookF , FaInstagram ,FaWhatsapp , FaTelegramPlane, FaLinkedinIn, FaGithub, FaYoutube  } from "react-icons/fa";
+import { FaFacebookF , FaInstagram ,FaWhatsapp , FaLinkedinIn, FaGithub, FaYoutube  } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import Image from 'next/image';
 function HeroSection() {
